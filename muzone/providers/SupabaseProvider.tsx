@@ -21,5 +21,6 @@ const SupabaseProvider: React.FC<SupabaseProviderProps> = ({
             {children}
         </SessionContextProvider>
     )
-
 }
+
+export default SupabaseProvider;
