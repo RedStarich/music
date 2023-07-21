@@ -5,6 +5,7 @@
     "@supabase/auth-helpers-react": "^0.4.0",
     "@supabase/auth-ui-react": "^0.4.2",
     "@supabase/auth-ui-shared": "^0.1.6",
+    "query-string": "^8.1.0",
     "react-hook-form": "^7.45.1",
     "react-hot-toast": "^2.4.1",
     "react-icons": "^4.10.1",
